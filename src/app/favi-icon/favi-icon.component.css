@@ -1,0 +1,12 @@
+h1
+{
+    position:relative;
+    left:33%;
+}
+img{
+    position: relative;
+    left:44%;
+    margin-top:50px;
+    height: 200px;
+    width: 200px;
+}
